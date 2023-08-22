@@ -244,7 +244,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   text-align: left;
 }
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 1300px) {
   .text-lg-center {
     text-align: center;
   }
@@ -2283,7 +2283,7 @@ img.mfp-img {
   color: #e1306c;
 }
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 1300px) {
   .social {
     margin-right: 16px;
   }
@@ -3865,7 +3865,7 @@ figcaption {
   }
 }
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 1300px) {
   .nav__container--side-padding {
     padding: 0 30px;
   }
@@ -4497,7 +4497,7 @@ header .flex-parent {
   border-left: 1px solid #e5e5e5;
 }
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 1300px) {
   .nav__phone + .nav__socials {
     padding-left: 20px;
     margin-left: 20px;
@@ -5631,7 +5631,7 @@ dd {
   padding-bottom: 80px;
 }
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 1300px) {
   .mt-lg-0 {
     margin-top: 0 !important;
   }
